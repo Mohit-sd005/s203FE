@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Mohit-sd005.github.io/s203FE",
+  "homepage": "https://github.com/Mohit-sd005/s203FE/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
